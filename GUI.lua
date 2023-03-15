@@ -22,6 +22,7 @@ Input.BorderColor3 = Color3.fromRGB(50, 50, 50)
 Input.Position = UDim2.new(0.0429932438, 0, 0.242424339, 0)
 Input.Size = UDim2.new(0, 277, 0, 21)
 Input.Font = Enum.Font.SourceSansLight
+Input.TextColor3 = Color3.fromRGB(255,255,255)
 Input.PlaceholderText = "Command"
 Input.Text = ""
 Input.TextColor3 = Color3.fromRGB(0, 0, 0)
